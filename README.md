@@ -1,5 +1,3 @@
-🌐 Front-End Mini Project
-📌 Overview
+This project demonstrates the implementation of a responsive sidebar navigation menu using HTML, CSS, and JavaScript. The sidebar can be toggled open and closed, providing a smooth and user-friendly navigation experience commonly used in modern web applications and dashboards.
 
-This is a front-end mini project developed using HTML, CSS, and JavaScript.
-The project focuses on building a responsive and interactive user interface while practicing core front-end web development concepts.
+This mini project focuses on UI/UX fundamentals, DOM manipulation, and responsive design principles.
