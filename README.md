@@ -1,3 +1,3 @@
-This project demonstrates the implementation of a responsive sidebar navigation menu using HTML, CSS, and JavaScript. The sidebar can be toggled open and closed, providing a smooth and user-friendly navigation experience commonly used in modern web applications and dashboards.
+This mini project demonstrates how to create a responsive sidebar navigation menu using only HTML and CSS, without any JavaScript. The sidebar uses CSS transitions and the checkbox hack to toggle visibility, making it lightweight, fast, and beginner-friendly.
 
-This mini project focuses on UI/UX fundamentals, DOM manipulation, and responsive design principles.
+It highlights strong fundamentals in HTML structure, CSS positioning, and pure CSS interactivity.
